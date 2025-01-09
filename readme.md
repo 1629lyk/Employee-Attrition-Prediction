@@ -29,8 +29,8 @@ Employee attrition is a significant challenge for organizations. Understanding t
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<name>/employee-attrition-prediction.git
-   cd employee-attrition-prediction
+   git clone https://github.com/1629lyk/Employee-Attrition-Prediction.git
+   cd Employee-Attrition-Prediction
    ```
 
 2. Install the required Python packages:
