@@ -76,11 +76,3 @@ Employee attrition is a significant challenge for organizations. Understanding t
 4. **Ensemble Method**:
    - Weighted combination of Logistic Regression and SVM.
    - Strength: Enhances predictive accuracy by leveraging strengths of individual models.
-
----
-
-## Contributing
-
-Contributions to improve the pipeline, add more models, or enhance interpretability are welcome! Please feel free to open issues or submit pull requests.
-
----
